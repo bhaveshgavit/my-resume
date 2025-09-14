@@ -1,0 +1,75 @@
+/* * {
+    text-align: center;
+    text-transform: capitalize;
+}
+
+#hname {
+    color : rgb(136, 22, 22);
+    font-size: 60px;
+    text-align: center;
+    font-weight: 350;
+}
+
+h3 {
+    font-size: 25px;   
+}
+
+.about {
+    color : rgb(136, 22, 22);
+    font-size: 40px;
+}
+
+.intro {
+    color : black;
+    font-size : 20px;
+}
+.section {
+    background: #ffff;
+    border: 1px solid #ddd;
+    padding: 10px 330px;
+    margin: 15px 0;
+    border-radius: 8px;
+    font-size: 40px;
+    color : rgb(136, 22, 22);
+
+}
+.skill {
+    color : rgb(136, 22, 22);
+    font-size: 40px;
+    margin: 20px;
+}
+
+body {
+    background-color: #fffaf0;
+}
+
+.Contact {
+   
+}
+
+#Contact {
+    font-size: 40px;
+    color : rgb(136, 22, 22);
+
+}
+.list {
+    color: orange;
+}
+
+#name {
+    padding: 4px 10px;
+}
+#email {
+    padding: 4px 10px;
+}
+
+button {
+    background-color: rgb(204, 16, 47);
+    color: bisque;
+}
+
+.list {
+    list-style: none;
+    font-size: 20px;
+}
+ */
